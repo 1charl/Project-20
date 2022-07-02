@@ -48,7 +48,7 @@ function setup(){
     World.add(world,particle5);
 
     var rotator_options={
-       isStatic=true
+       isStatic: true
       // isStatic:false
     };
 
